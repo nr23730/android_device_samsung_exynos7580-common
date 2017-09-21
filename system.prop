@@ -6,7 +6,7 @@ audio_hal.disable_two_mic=true
 ro.opengles.version=196609
 
 # HWC
-debug.hwc.force_gpu=1
+#debug.hwc.force_gpu=1
 debug.hwc.otf=1
 debug.hwc.winupdate=1
 
