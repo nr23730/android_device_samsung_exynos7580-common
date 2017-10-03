@@ -2,6 +2,8 @@
 # Graphics  	   #
 ####################
 
+BOARD_USES_HWC_SERVICES = true
+
 # OpenGL
 USE_OPENGL_RENDERER := true
 
