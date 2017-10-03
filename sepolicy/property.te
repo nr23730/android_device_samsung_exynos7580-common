@@ -6,3 +6,7 @@ type cpboot-daemon_prop, property_type;
 
 # Mobicore Daemon
 type tee_prop, property_type;
+
+# rild
+type rild_prop, property_type;
+
